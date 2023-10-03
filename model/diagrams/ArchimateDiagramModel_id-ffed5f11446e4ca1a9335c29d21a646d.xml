@@ -5,26 +5,50 @@
     id="id-ffed5f11446e4ca1a9335c29d21a646d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f798f0856a674270bbb89c2d7e3c2b23">
+      id="id-617681ce1a694219ae5203eddcd595e9">
     <bounds
-        x="88"
-        y="100"
-        width="120"
+        x="180"
+        y="84"
+        width="445"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-b2d3fe16a49845c2b20941265b56a907.xml#id-b2d3fe16a49845c2b20941265b56a907"/>
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-bb09349b597a49a6ba9f1af3647e5593.xml#id-bb09349b597a49a6ba9f1af3647e5593"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fe3712b58a134ac4ac65f974d92cf117">
+      id="id-e769239930774d6888133d67b970a595">
     <bounds
-        x="482"
-        y="268"
+        x="326"
+        y="193"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-f7d7d0dbc70c49e69a50a44373b762cd.xml#id-f7d7d0dbc70c49e69a50a44373b762cd"/>
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-7436c66867f4455c99ef1fa801c5196a.xml#id-7436c66867f4455c99ef1fa801c5196a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-70b2e8cbbc914f039a9068f5278fd3dd">
+    <bounds
+        x="180"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-2c6f9bfebfb4474ca7c2ba5d44fe0316.xml#id-2c6f9bfebfb4474ca7c2ba5d44fe0316"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-15f4d4f35c4a41b6bab726fed3b0829d">
+    <bounds
+        x="480"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-da1d0b3db15d41b8b273f85f7aa743b5.xml#id-da1d0b3db15d41b8b273f85f7aa743b5"/>
   </children>
 </archimate:ArchimateDiagramModel>
