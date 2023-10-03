@@ -35,7 +35,7 @@
     </sourceConnections>
     <bounds
         x="264"
-        y="300"
+        y="288"
         width="913"
         height="373"/>
     <children
@@ -389,6 +389,16 @@
               startY="57"
               endX="-96"
               endY="57"/>
+          <bendpoints
+              startX="246"
+              startY="57"
+              endX="-96"
+              endY="57"/>
+          <bendpoints
+              startX="246"
+              startY="33"
+              endX="-96"
+              endY="33"/>
           <bendpoints
               startX="246"
               startY="6"
