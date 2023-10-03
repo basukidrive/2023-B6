@@ -34,8 +34,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-7436c66867f4455c99ef1fa801c5196a.xml#id-7436c66867f4455c99ef1fa801c5196a"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-96de517a03f840b48f999f77f87c74d1.xml#id-96de517a03f840b48f999f77f87c74d1"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -55,8 +55,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-2c6f9bfebfb4474ca7c2ba5d44fe0316.xml#id-2c6f9bfebfb4474ca7c2ba5d44fe0316"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-c49502731ac84833943de3f8015f9cf1.xml#id-c49502731ac84833943de3f8015f9cf1"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -76,8 +76,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-da1d0b3db15d41b8b273f85f7aa743b5.xml#id-da1d0b3db15d41b8b273f85f7aa743b5"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-0602d38932fb488c84ddc76ffec2c8c1.xml#id-0602d38932fb488c84ddc76ffec2c8c1"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
