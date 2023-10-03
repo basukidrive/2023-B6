@@ -306,7 +306,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a1f36b0ae2514383b4e166c5145aa717">
+      id="id-a1f36b0ae2514383b4e166c5145aa717"
+      fillColor="#00ff40">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f06b100bf92143d9aeb1d8a3ba0d40c9"
