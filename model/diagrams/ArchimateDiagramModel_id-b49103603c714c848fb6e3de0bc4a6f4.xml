@@ -123,6 +123,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-47d5b35200344d6eaf2437bed64d3957"
+          targetConnections="id-93079d52f070443bae15b5d373466099"
           source="id-e0804e3c5a4f4382b83350593ff0748e"
           target="id-922730ba34274782a69ae8b73fe1c899">
         <bendpoints
@@ -245,6 +246,35 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6cd191a8bbda4081bda08d69cb97e1e0"
         targetConnections="id-da88fcdef43d472a8212a63a41bd7905">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-93079d52f070443bae15b5d373466099"
+          source="id-6cd191a8bbda4081bda08d69cb97e1e0"
+          target="id-47d5b35200344d6eaf2437bed64d3957">
+        <bendpoints
+            startX="12"
+            startY="-99"
+            endX="-139"
+            endY="26"/>
+        <bendpoints
+            startX="132"
+            startY="-99"
+            endX="-19"
+            endY="26"/>
+        <bendpoints
+            startX="204"
+            startY="-99"
+            endX="53"
+            endY="26"/>
+        <bendpoints
+            startX="252"
+            startY="-99"
+            endX="101"
+            endY="26"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-a04e7ca7b4b64b029250caad10c91584.xml#id-a04e7ca7b4b64b029250caad10c91584"/>
+      </sourceConnections>
       <bounds
           x="144"
           y="36"
