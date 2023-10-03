@@ -328,10 +328,6 @@
             startY="138"
             endX="-204"
             endY="-12"/>
-        <bendpoints
-            startX="54"
-            startY="114"
-            endX="-144"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-6fe95765cbdc4e96931b15813c5850b4.xml#id-6fe95765cbdc4e96931b15813c5850b4"/>
@@ -347,7 +343,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="36"
+          y="48"
           width="121"
           height="61"/>
       <archimateElement
