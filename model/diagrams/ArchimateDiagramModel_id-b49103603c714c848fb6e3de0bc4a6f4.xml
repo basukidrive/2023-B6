@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aplikasi Tengah"
+    name="Aplikasi View"
     id="id-b49103603c714c848fb6e3de0bc4a6f4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -447,19 +447,29 @@
             target="id-2fbcc05fbdf6400bb6554bc3d261f80d">
           <bendpoints
               startX="-24"
-              startY="78"
+              startY="57"
               endX="-384"
-              endY="-75"/>
+              endY="-123"/>
+          <bendpoints
+              startX="-24"
+              startY="81"
+              endX="-384"
+              endY="-99"/>
           <bendpoints
               startX="336"
-              startY="78"
+              startY="81"
               endX="-24"
-              endY="-75"/>
+              endY="-99"/>
           <bendpoints
               startX="348"
-              startY="78"
+              startY="81"
               endX="-12"
-              endY="-75"/>
+              endY="-99"/>
+          <bendpoints
+              startX="348"
+              startY="93"
+              endX="-12"
+              endY="-87"/>
           <bendpoints
               startX="348"
               startY="102"
