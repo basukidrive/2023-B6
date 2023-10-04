@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Katalog Proses Bisnis - Layanan"
+    name="6. Katalog Proses Bisnis - Layanan"
     id="id-0ebb3d4be9cc4ca192ec34ecd082cd1e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -383,15 +383,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-aa4a0f1aef9e45ae95abb9904a1b8e64"
-        source="id-49011f57ddb845f1b52e12aecf3b86eb"
-        target="id-c16ae0bc3f6848dcb7170129015c652b">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-e02e49cda9e643758a7f963b7b7bda74.xml#id-e02e49cda9e643758a7f963b7b7bda74"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1a96acfb97554160980cb01529f06f79"
         source="id-49011f57ddb845f1b52e12aecf3b86eb"
         target="id-ea76e32cbe5e4aabb7d06e849edc1202">
@@ -407,6 +398,15 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-ddeb8353a19f477d81507a249e879131.xml#id-ddeb8353a19f477d81507a249e879131"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-aa4a0f1aef9e45ae95abb9904a1b8e64"
+        source="id-49011f57ddb845f1b52e12aecf3b86eb"
+        target="id-c16ae0bc3f6848dcb7170129015c652b">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e02e49cda9e643758a7f963b7b7bda74.xml#id-e02e49cda9e643758a7f963b7b7bda74"/>
     </sourceConnections>
     <bounds
         x="204"
@@ -431,7 +431,7 @@
         id="id-659cd696e7ad4239bab5c4d7b725a84c"
         targetConnections="id-0b6acced339f4af09d35b7ce8372987e">
       <bounds
-          x="132"
+          x="144"
           y="24"
           width="121"
           height="63"/>
@@ -483,9 +483,9 @@
         id="id-ea76e32cbe5e4aabb7d06e849edc1202"
         targetConnections="id-1a96acfb97554160980cb01529f06f79">
       <bounds
-          x="156"
+          x="144"
           y="97"
-          width="97"
+          width="121"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
