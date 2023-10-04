@@ -1,4 +1,42 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data View"
-    id="id-8162133292544fe0baae8de66f38858f"/>
+    id="id-8162133292544fe0baae8de66f38858f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5ac6cdb0743e4182a360cf608b31a15b">
+    <bounds
+        x="264"
+        y="84"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-63825f53953a4161864a2fa429a339c6.xml#id-63825f53953a4161864a2fa429a339c6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-317310d8730744a091ebd2df44dd0516">
+    <bounds
+        x="93"
+        y="84"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-3aaedb2ac33c4e2c81d0cac63de78fdf.xml#id-3aaedb2ac33c4e2c81d0cac63de78fdf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-49d9f59730ba41e19ca054a7438619fc">
+    <bounds
+        x="264"
+        y="204"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-322862b56fbe46f78df289c9dcbe03b2.xml#id-322862b56fbe46f78df289c9dcbe03b2"/>
+  </children>
+</archimate:ArchimateDiagramModel>
