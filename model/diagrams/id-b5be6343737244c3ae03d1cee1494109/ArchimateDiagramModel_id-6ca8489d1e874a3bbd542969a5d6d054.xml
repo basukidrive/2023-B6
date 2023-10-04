@@ -167,8 +167,8 @@
       id="id-aae899e4c63f468da61db79a0b99c7ab"
       targetConnections="id-365891be734249cbaff06bbd86befd04">
     <bounds
-        x="288"
-        y="396"
+        x="281"
+        y="348"
         width="228"
         height="60"/>
     <archimateElement
@@ -180,8 +180,8 @@
       id="id-e7a457613a984a4387ec0fe83e784a2e"
       targetConnections="id-09d0cd6107d340319fe2468826fcbcf1">
     <bounds
-        x="293"
-        y="504"
+        x="287"
+        y="432"
         width="216"
         height="55"/>
     <archimateElement
