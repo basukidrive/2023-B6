@@ -16,8 +16,8 @@
           href="AggregationRelationship_id-dd6f91a425e44bd19e47bd2ada66ef39.xml#id-dd6f91a425e44bd19e47bd2ada66ef39"/>
     </sourceConnections>
     <bounds
-        x="144"
-        y="176"
+        x="84"
+        y="48"
         width="205"
         height="89"/>
     <archimateElement
@@ -37,8 +37,8 @@
           href="AggregationRelationship_id-e95171b9c491489195a49503ef6d447e.xml#id-e95171b9c491489195a49503ef6d447e"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="176"
+        x="348"
+        y="48"
         width="205"
         height="89"/>
     <archimateElement
@@ -60,8 +60,8 @@
           href="CompositionRelationship_id-c1d9cb915ea340d7abbf22f117fbda35.xml#id-c1d9cb915ea340d7abbf22f117fbda35"/>
     </sourceConnections>
     <bounds
-        x="144"
-        y="312"
+        x="84"
+        y="184"
         width="205"
         height="121"/>
     <children
@@ -97,8 +97,8 @@
           href="CompositionRelationship_id-393745d4114f4f4f85c1071e1f8cd276.xml#id-393745d4114f4f4f85c1071e1f8cd276"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="312"
+        x="348"
+        y="184"
         width="205"
         height="121"/>
     <children

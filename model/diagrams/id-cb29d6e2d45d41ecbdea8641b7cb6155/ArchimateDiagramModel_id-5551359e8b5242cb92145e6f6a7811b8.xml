@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Layer View"
+    name="3. Data Layer View"
     id="id-5551359e8b5242cb92145e6f6a7811b8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -31,21 +31,9 @@
           height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-cd502423c64246e98fb94769f5a7ba8c">
-        <bounds
-            x="24"
-            y="36"
-            width="116"
-            height="33"/>
-        <archimateElement
-            xsi:type="archimate:SystemSoftware"
-            href="SystemSoftware_id-4dd1342ca3af470f9da2cacd0376b576.xml#id-4dd1342ca3af470f9da2cacd0376b576"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2e173855bddf4b6db71cecf9bdf34c40">
         <bounds
-            x="168"
+            x="96"
             y="36"
             width="116"
             height="33"/>
