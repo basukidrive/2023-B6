@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data View"
+    name="1. Data View"
     id="id-8162133292544fe0baae8de66f38858f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -26,7 +26,7 @@
           href="AssociationRelationship_id-bd1fe112176e40d6b40a141900408f0e.xml#id-bd1fe112176e40d6b40a141900408f0e"/>
     </sourceConnections>
     <bounds
-        x="456"
+        x="252"
         y="84"
         width="120"
         height="55"/>
@@ -36,29 +36,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-317310d8730744a091ebd2df44dd0516">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0c1bb58562364fb8a17444cdd00acadb"
-        source="id-317310d8730744a091ebd2df44dd0516"
-        target="id-49d9f59730ba41e19ca054a7438619fc">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-1d72a66aeabb459886c19104bbe72a38.xml#id-1d72a66aeabb459886c19104bbe72a38"/>
-    </sourceConnections>
-    <bounds
-        x="57"
-        y="228"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:DataObject"
-        href="DataObject_id-3aaedb2ac33c4e2c81d0cac63de78fdf.xml#id-3aaedb2ac33c4e2c81d0cac63de78fdf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-49d9f59730ba41e19ca054a7438619fc"
-      targetConnections="id-0c1bb58562364fb8a17444cdd00acadb">
+      id="id-49d9f59730ba41e19ca054a7438619fc">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c43596eb87cf4a27a2ecc6bd80b5e6a0"
@@ -96,7 +74,7 @@
           href="AssociationRelationship_id-c9b3accb564e474d8956a4f799f987e4.xml#id-c9b3accb564e474d8956a4f799f987e4"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="36"
         y="228"
         width="157"
         height="55"/>
@@ -109,7 +87,7 @@
       id="id-bd3d03179bda4fda909d748d17b38fa0"
       targetConnections="id-6fc9450681304bb79394c984d013f339">
     <bounds
-        x="624"
+        x="420"
         y="48"
         width="120"
         height="55"/>
@@ -122,7 +100,7 @@
       id="id-63f26dbbcccc4cbf83b6ae6592d2d9a9"
       targetConnections="id-d8eceed9a08349d0ad4f6b6dc2ae22d4">
     <bounds
-        x="624"
+        x="420"
         y="120"
         width="120"
         height="55"/>
@@ -135,7 +113,7 @@
       id="id-2a7ebcce711e4d8ea305d8e7971ab34c"
       targetConnections="id-ea532eedb80f4933a9db609277b25955">
     <bounds
-        x="456"
+        x="252"
         y="288"
         width="168"
         height="55"/>
@@ -148,7 +126,7 @@
       id="id-35b5be12fb28408ea55b6a6b49f99ad5"
       targetConnections="id-81b59e1a9b1a4cf2bcf079f9bc79683b">
     <bounds
-        x="456"
+        x="252"
         y="204"
         width="133"
         height="55"/>
@@ -161,7 +139,7 @@
       id="id-e5baa49e7b544c18bf148211b708e7a4"
       targetConnections="id-ce46fb42930446fe95ea63794efa09f1">
     <bounds
-        x="456"
+        x="252"
         y="384"
         width="120"
         height="55"/>
