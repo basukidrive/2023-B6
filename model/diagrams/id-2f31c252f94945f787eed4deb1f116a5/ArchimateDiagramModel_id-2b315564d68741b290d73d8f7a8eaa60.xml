@@ -205,7 +205,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-744709b8639541699a48d4afcc8b8c28"
-        targetConnections="id-310a940cff774502809c480702500eca">
+        targetConnections="id-310a940cff774502809c480702500eca"
+        fillColor="#80ff80">
       <bounds
           x="411"
           y="24"
