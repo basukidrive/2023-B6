@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Portofolio Aplikasi"
+    id="id-127ebded506e4363a327f3849cdf5486">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6bb138b1e5924ab495272980ce812a03"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-18ef95ba821b4c378983aa61aad30553"
+        source="id-6bb138b1e5924ab495272980ce812a03"
+        target="id-9ccaf05d0c96434d9453fd7e93bc4471">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-f099fe55cb864a46bb77afad62418812.xml#id-f099fe55cb864a46bb77afad62418812"/>
+    </sourceConnections>
+    <bounds
+        x="60"
+        y="36"
+        width="253"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9ccaf05d0c96434d9453fd7e93bc4471"
+        targetConnections="id-18ef95ba821b4c378983aa61aad30553">
+      <bounds
+          x="60"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-b676f414697346e08da294ebb7f1e389.xml#id-b676f414697346e08da294ebb7f1e389"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-695fdf5d30b14f2091c9e67c63def104.xml#id-695fdf5d30b14f2091c9e67c63def104"/>
+  </children>
+</archimate:ArchimateDiagramModel>
