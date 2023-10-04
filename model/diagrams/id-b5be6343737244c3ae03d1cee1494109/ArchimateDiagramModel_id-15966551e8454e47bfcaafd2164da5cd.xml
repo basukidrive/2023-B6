@@ -37,8 +37,8 @@
           href="AggregationRelationship_id-e95171b9c491489195a49503ef6d447e.xml#id-e95171b9c491489195a49503ef6d447e"/>
     </sourceConnections>
     <bounds
-        x="348"
-        y="48"
+        x="660"
+        y="60"
         width="205"
         height="89"/>
     <archimateElement
@@ -97,8 +97,8 @@
           href="CompositionRelationship_id-393745d4114f4f4f85c1071e1f8cd276.xml#id-393745d4114f4f4f85c1071e1f8cd276"/>
     </sourceConnections>
     <bounds
-        x="348"
-        y="184"
+        x="660"
+        y="196"
         width="205"
         height="121"/>
     <children
