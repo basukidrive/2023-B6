@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Policy View"
+    name="1. Policy View"
     id="id-15966551e8454e47bfcaafd2164da5cd">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -37,8 +37,8 @@
           href="AggregationRelationship_id-e95171b9c491489195a49503ef6d447e.xml#id-e95171b9c491489195a49503ef6d447e"/>
     </sourceConnections>
     <bounds
-        x="660"
-        y="60"
+        x="396"
+        y="47"
         width="205"
         height="89"/>
     <archimateElement
@@ -113,8 +113,8 @@
           href="AssociationRelationship_id-4c3ce88d9348487080103fcb255e054a.xml#id-4c3ce88d9348487080103fcb255e054a"/>
     </sourceConnections>
     <bounds
-        x="666"
-        y="348"
+        x="402"
+        y="335"
         width="205"
         height="121"/>
     <children
@@ -154,8 +154,8 @@
       id="id-77f796adec9e41ab9e0abc1124a12431"
       targetConnections="id-67bec37cf6474913bdfc5544812000bb id-54eab8f694ac4f87a8ee3fd881fbf1b0">
     <bounds
-        x="672"
-        y="209"
+        x="408"
+        y="196"
         width="193"
         height="80"/>
     <archimateElement
