@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2.1 Stakeholder Driver Assesment"
+    name="2. Stakeholder Driver Assesment"
     id="id-6ca8489d1e874a3bbd542969a5d6d054">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -148,6 +148,25 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8695a25f3e3948a4823bdb54337e65b8.xml#id-8695a25f3e3948a4823bdb54337e65b8"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b155dacbb87046ee940281360b641603"
+        source="id-4161021139574f2a927682e1d804bae6"
+        target="id-c7ffb83546ed42228fb8cfec8f208e2b">
+      <bendpoints
+          startX="-54"
+          startY="48"
+          endX="-108"
+          endY="-74"/>
+      <bendpoints
+          startX="-54"
+          startY="120"
+          endX="-108"
+          endY="-2"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-5ff8418979b44ff0b253ef5befed94fb.xml#id-5ff8418979b44ff0b253ef5befed94fb"/>
+    </sourceConnections>
     <bounds
         x="216"
         y="264"
@@ -218,5 +237,18 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-32bce424d2324837813332268e371013.xml#id-32bce424d2324837813332268e371013"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c7ffb83546ed42228fb8cfec8f208e2b"
+      targetConnections="id-b155dacbb87046ee940281360b641603">
+    <bounds
+        x="288"
+        y="364"
+        width="145"
+        height="117"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-c18e80b3cd5a409bb29087db97085616.xml#id-c18e80b3cd5a409bb29087db97085616"/>
   </children>
 </archimate:ArchimateDiagramModel>
