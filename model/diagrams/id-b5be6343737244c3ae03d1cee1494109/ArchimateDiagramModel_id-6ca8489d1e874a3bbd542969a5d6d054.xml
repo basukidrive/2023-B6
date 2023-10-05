@@ -465,8 +465,8 @@
           href="RealizationRelationship_id-dbc3cffa31064192b0e96db13b7a17ae.xml#id-dbc3cffa31064192b0e96db13b7a17ae"/>
     </sourceConnections>
     <bounds
-        x="704"
-        y="696"
+        x="915"
+        y="552"
         width="161"
         height="133"/>
     <archimateElement
@@ -486,8 +486,8 @@
           href="RealizationRelationship_id-0efbd7d2dbac476e9901d9f95c0b5a51.xml#id-0efbd7d2dbac476e9901d9f95c0b5a51"/>
     </sourceConnections>
     <bounds
-        x="495"
-        y="696"
+        x="280"
+        y="591"
         width="138"
         height="55"/>
     <archimateElement
