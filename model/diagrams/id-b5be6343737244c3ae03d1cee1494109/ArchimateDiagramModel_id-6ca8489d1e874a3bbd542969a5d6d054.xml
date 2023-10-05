@@ -13,10 +13,20 @@
         source="id-048ecbeb440b41d88fc6554739117cd1"
         target="id-aae899e4c63f468da61db79a0b99c7ab">
       <bendpoints
-          startX="-84"
-          startY="105"
-          endX="-132"
-          endY="6"/>
+          startX="-418"
+          startY="216"
+          endX="144"
+          endY="7"/>
+      <bendpoints
+          startX="-430"
+          startY="216"
+          endX="132"
+          endY="7"/>
+      <bendpoints
+          startX="-454"
+          startY="204"
+          endX="108"
+          endY="-5"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-fa835d2d732843afb4bd45e8d29c35b1.xml#id-fa835d2d732843afb4bd45e8d29c35b1"/>
@@ -27,15 +37,30 @@
         source="id-048ecbeb440b41d88fc6554739117cd1"
         target="id-e7a457613a984a4387ec0fe83e784a2e">
       <bendpoints
-          startX="-120"
-          startY="-3"
-          endX="-168"
-          endY="-207"/>
+          startX="2"
+          startY="84"
+          endX="576"
+          endY="-206"/>
       <bendpoints
-          startX="-120"
-          startY="201"
-          endX="-168"
-          endY="-3"/>
+          startX="-382"
+          startY="96"
+          endX="192"
+          endY="-194"/>
+      <bendpoints
+          startX="-382"
+          startY="300"
+          endX="192"
+          endY="10"/>
+      <bendpoints
+          startX="-382"
+          startY="300"
+          endX="192"
+          endY="10"/>
+      <bendpoints
+          startX="-382"
+          startY="300"
+          endX="192"
+          endY="10"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-e87898798812448e8279cdfba0fd7f41.xml#id-e87898798812448e8279cdfba0fd7f41"/>
@@ -183,6 +208,11 @@
         id="id-dd9cb2e8182e4b4a972631dbfbd9b05a"
         source="id-e85f6c1a596446f5976d3770d3e57ddb"
         target="id-6f487b8b0d4d417db7b4981efbe26fe4">
+      <bendpoints
+          startX="-10"
+          startY="115"
+          endX="-137"
+          endY="10"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-2868b3588ea24ea0b6cb0883c13367b3.xml#id-2868b3588ea24ea0b6cb0883c13367b3"/>
@@ -193,10 +223,15 @@
         source="id-e85f6c1a596446f5976d3770d3e57ddb"
         target="id-4896c461f7eb4eb7949d0b5268978a04">
       <bendpoints
-          startX="-72"
-          startY="192"
-          endX="-126"
-          endY="-3"/>
+          startX="-10"
+          startY="139"
+          endX="-137"
+          endY="-80"/>
+      <bendpoints
+          startX="-10"
+          startY="223"
+          endX="-137"
+          endY="4"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-5443d1f6b6f04298b1023bb50afaea50.xml#id-5443d1f6b6f04298b1023bb50afaea50"/>
@@ -215,8 +250,8 @@
       id="id-6f487b8b0d4d417db7b4981efbe26fe4"
       targetConnections="id-dd9cb2e8182e4b4a972631dbfbd9b05a">
     <bounds
-        x="1296"
-        y="272"
+        x="1032"
+        y="252"
         width="181"
         height="55"/>
     <archimateElement
@@ -228,8 +263,8 @@
       id="id-4896c461f7eb4eb7949d0b5268978a04"
       targetConnections="id-a2d5c4a56b1042d19c34be60ce60ca18">
     <bounds
-        x="1308"
-        y="444"
+        x="1032"
+        y="365"
         width="181"
         height="55"/>
     <archimateElement
