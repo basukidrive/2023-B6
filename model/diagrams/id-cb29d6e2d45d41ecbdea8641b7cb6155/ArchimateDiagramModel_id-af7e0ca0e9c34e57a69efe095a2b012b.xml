@@ -111,24 +111,6 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-1990498fd0aa4d088e4a87f1aa9442a6.xml#id-1990498fd0aa4d088e4a87f1aa9442a6"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e9784a1fb2fe4332b1fd86c2a4822539"
-        source="id-50c2b6f07aae4fddb118a190db0baa75"
-        target="id-d58ad53e78d842179a63602f36a78912">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-2e4540c0309d464d89b80150a771330b.xml#id-2e4540c0309d464d89b80150a771330b"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2ef00ca20a924be0b9a2807e743c13ed"
-        source="id-50c2b6f07aae4fddb118a190db0baa75"
-        target="id-3289031fcc3f43be8bb65fdaef41abce">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-2647c49738164d56b2a28a5b0d7a5553.xml#id-2647c49738164d56b2a28a5b0d7a5553"/>
-    </sourceConnections>
     <bounds
         x="228"
         y="168"
@@ -137,41 +119,16 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-89c428ac18e842f3bfff0e88e1b5ff17"
-        targetConnections="id-13a7259c06ef420a99f78e64bafaeaf6">
+        targetConnections="id-13a7259c06ef420a99f78e64bafaeaf6"
+        fillColor="#00ff00">
       <bounds
-          x="12"
-          y="33"
+          x="120"
+          y="36"
           width="100"
           height="28"/>
       <archimateElement
           xsi:type="archimate:TechnologyCollaboration"
           href="TechnologyCollaboration_id-ff3bdee539e844f39aeb9e5ec36fdae6.xml#id-ff3bdee539e844f39aeb9e5ec36fdae6"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d58ad53e78d842179a63602f36a78912"
-        targetConnections="id-e9784a1fb2fe4332b1fd86c2a4822539">
-      <bounds
-          x="120"
-          y="33"
-          width="100"
-          height="28"/>
-      <archimateElement
-          xsi:type="archimate:TechnologyCollaboration"
-          href="TechnologyCollaboration_id-727a2ff65aee4c2e8b8cd4b8bd3c7284.xml#id-727a2ff65aee4c2e8b8cd4b8bd3c7284"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-3289031fcc3f43be8bb65fdaef41abce"
-        targetConnections="id-2ef00ca20a924be0b9a2807e743c13ed">
-      <bounds
-          x="228"
-          y="33"
-          width="100"
-          height="28"/>
-      <archimateElement
-          xsi:type="archimate:TechnologyCollaboration"
-          href="TechnologyCollaboration_id-e727dae96f3b4dc49c9d8dd2662dc985.xml#id-e727dae96f3b4dc49c9d8dd2662dc985"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyCollaboration"
