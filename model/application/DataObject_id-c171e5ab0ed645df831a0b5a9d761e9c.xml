@@ -1,16 +1,16 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Video"
-    id="id-df6dcd573b804762b53d8fd7ae753930">
+    name="Teks"
+    id="id-c171e5ab0ed645df831a0b5a9d761e9c">
   <properties
       key="nama"
-      value="judul video"/>
+      value="judul tulisan"/>
   <properties
       key="format"
-      value="mp4, avi"/>
+      value="pdf, docx, ppt, jpg, png"/>
   <properties
-      key="length"
-      value="10 minutes"/>
+      key="size"
+      value="20 MB"/>
   <properties
       key="deskripsi"
       value="konten terkait probis masing-masing E I"/>
