@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3. Detil Proyek Pengembangan KMS"
+    id="id-6d521a221b384c3ba81532828c08f3cb">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7f0cf8e8ce374f17b89a714da539069b"
+      textAlignment="1"
+      content="Nama : Pengembangan Aplikasi KMS (Modul Dashboard Kontributor)&#xD;&#xA;Lingkup : BPPK&#xD;&#xA;Dependensi : - Analis Sistem, Pengembang Sistem, Penguji Sistem, Pusintek&#xD;&#xA;Pendekatan : - Inhouse&#xD;&#xA;Timeline : Bulan Januari s.d. Maret 2024&#xD;&#xA;Stakeholder : Seluruh Pimpinan Unit Eselon I&#xD;&#xA;Cost : 0 &#xD;&#xA;Benefit : Secara tidak langsung akan meningkatkan kontribusi pada KC&#xD;&#xA;Manajemen Resiko :  - ">
+    <bounds
+        x="24"
+        y="24"
+        width="601"
+        height="277"/>
+  </children>
+</archimate:ArchimateDiagramModel>

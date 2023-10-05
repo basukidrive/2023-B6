@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2. Detil Proyek Konsinyering"
+    id="id-9248971a13454c5bbceb9c8751aa19bc">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4038dfea27b34677beb9633710269a7a"
+      textAlignment="1"
+      content="Nama : Konsinyering perubahan PMK&#xD;&#xA;Lingkup : Kementerian Keuangan&#xD;&#xA;Dependensi : -&#xD;&#xA;Pendekatan : -&#xD;&#xA;Timeline : Bulan Oktober s.d. Desember 2023&#xD;&#xA;Stakeholder : Seluruh Pimpinan Unit Eselon I&#xD;&#xA;Cost : 200 Juta&#xD;&#xA;Benefit : Secara tidak langsung akan meningkatkan kontribusi pada KC&#xD;&#xA;Manajemen Resiko :  - Terdapat banyak pertentangan antara pimpinan unit eselon I">
+    <bounds
+        x="36"
+        y="48"
+        width="601"
+        height="181"/>
+  </children>
+</archimate:ArchimateDiagramModel>
