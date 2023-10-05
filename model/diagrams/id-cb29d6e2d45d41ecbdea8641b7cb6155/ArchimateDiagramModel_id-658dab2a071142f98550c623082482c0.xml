@@ -35,7 +35,7 @@
         targetConnections="id-fa7b8dbe7d46497ab5d5a9d394bdbbf2">
       <bounds
           x="24"
-          y="24"
+          y="48"
           width="301"
           height="121"/>
       <children
@@ -60,7 +60,7 @@
         targetConnections="id-8e35029216e34fcda53dab14b28b5641">
       <bounds
           x="396"
-          y="24"
+          y="48"
           width="373"
           height="121"/>
       <children
