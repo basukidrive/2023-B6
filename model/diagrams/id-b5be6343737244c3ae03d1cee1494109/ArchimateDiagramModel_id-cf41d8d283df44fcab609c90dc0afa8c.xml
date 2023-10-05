@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.1 Goal Outcome Prinsiple Rquierment Constraint"
+    name="3. Goal Outcome Prinsiple Rquierment Constraint"
     id="id-cf41d8d283df44fcab609c90dc0afa8c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -128,8 +128,8 @@
     <bounds
         x="500"
         y="360"
-        width="149"
-        height="55"/>
+        width="161"
+        height="133"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-a490826a7c9f4e0cb0f68fb174016004.xml#id-a490826a7c9f4e0cb0f68fb174016004"/>
