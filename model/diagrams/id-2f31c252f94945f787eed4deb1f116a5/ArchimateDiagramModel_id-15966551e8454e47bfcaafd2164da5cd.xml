@@ -115,17 +115,17 @@
     <bounds
         x="402"
         y="335"
-        width="205"
-        height="121"/>
+        width="187"
+        height="122"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-db80b64acc2e41e8aa17f744f5e43115"
         targetConnections="id-995c2561c97b44469cb76c873a4dbc05"
         fillColor="#00ff00">
       <bounds
-          x="36"
-          y="36"
-          width="133"
+          x="24"
+          y="24"
+          width="145"
           height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
