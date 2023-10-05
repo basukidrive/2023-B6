@@ -30,9 +30,9 @@
           href="RealizationRelationship_id-b61977a43ab147b8ab59415041a321f1.xml#id-b61977a43ab147b8ab59415041a321f1"/>
     </sourceConnections>
     <bounds
-        x="300"
+        x="281"
         y="132"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Outcome"
@@ -54,7 +54,7 @@
     <bounds
         x="504"
         y="132"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Outcome"
