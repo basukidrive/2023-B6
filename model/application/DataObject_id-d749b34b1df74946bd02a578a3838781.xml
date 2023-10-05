@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Video"
+    id="id-d749b34b1df74946bd02a578a3838781">
+  <properties
+      key="nama"
+      value="judul video"/>
+  <properties
+      key="format"
+      value="mp4, avi"/>
+  <properties
+      key="length"
+      value="10 minutes"/>
+  <properties
+      key="deskripsi"
+      value="konten terkait probis masing-masing E I"/>
+  <properties
+      key="creator"
+      value="Pegawai Kemenkeu"/>
+  <properties
+      key="rating"
+      value="*****"/>
+</archimate:DataObject>

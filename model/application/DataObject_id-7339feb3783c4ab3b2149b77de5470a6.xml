@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teks"
+    id="id-7339feb3783c4ab3b2149b77de5470a6">
+  <properties
+      key="nama"
+      value="judul tulisan"/>
+  <properties
+      key="format"
+      value="pdf, docx, ppt, jpg, png"/>
+  <properties
+      key="size"
+      value="20 MB"/>
+  <properties
+      key="deskripsi"
+      value="konten terkait probis masing-masing E I"/>
+  <properties
+      key="creator"
+      value="Pegawai Kemenkeu"/>
+  <properties
+      key="rating"
+      value="*****"/>
+</archimate:DataObject>

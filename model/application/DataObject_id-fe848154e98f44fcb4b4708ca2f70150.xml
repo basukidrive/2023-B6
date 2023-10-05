@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audio"
+    id="id-fe848154e98f44fcb4b4708ca2f70150">
+  <properties
+      key="nama"
+      value="judul audio"/>
+  <properties
+      key="format"
+      value="mp3, aac, wav"/>
+  <properties
+      key="length"
+      value="10 minutes"/>
+  <properties
+      key="deskripsi"
+      value="konten terkait probis masing-masing E I"/>
+  <properties
+      key="creator"
+      value="Pegawai Kemenkeu"/>
+  <properties
+      key="rating"
+      value="*****"/>
+</archimate:DataObject>
